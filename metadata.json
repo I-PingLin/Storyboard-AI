@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard AI",
+  "description": "An AI-powered application that takes a script and generates a sequence of storyboard images. It also features an integrated AI chatbot for assistance.",
+  "requestFramePermissions": []
+}
